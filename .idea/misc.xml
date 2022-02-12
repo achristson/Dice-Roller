@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/AC/KotlinProjectRepos/Dice-Roller/app/src/main/res/drawable-v24/dice_1.xml" value="0.4195" />
+        <entry key="..\:/Users/AC/KotlinProjectRepos/Dice-Roller/app/src/main/res/drawable-v24/dice_2.xml" value="0.4195" />
+        <entry key="..\:/Users/AC/KotlinProjectRepos/Dice-Roller/app/src/main/res/drawable-v24/dice_3.xml" value="0.4195" />
+        <entry key="..\:/Users/AC/KotlinProjectRepos/Dice-Roller/app/src/main/res/drawable-v24/empty_dice.xml" value="0.4195" />
+        <entry key="..\:/Users/AC/KotlinProjectRepos/Dice-Roller/app/src/main/res/drawable/dice_1.xml" value="0.4195" />
+        <entry key="..\:/Users/AC/KotlinProjectRepos/Dice-Roller/app/src/main/res/drawable/dice_2.xml" value="0.3195" />
+        <entry key="..\:/Users/AC/KotlinProjectRepos/Dice-Roller/app/src/main/res/drawable/dice_3.xml" value="0.3195" />
+        <entry key="..\:/Users/AC/KotlinProjectRepos/Dice-Roller/app/src/main/res/drawable/dice_4.xml" value="0.3195" />
+        <entry key="..\:/Users/AC/KotlinProjectRepos/Dice-Roller/app/src/main/res/drawable/dice_5.xml" value="0.3195" />
+        <entry key="..\:/Users/AC/KotlinProjectRepos/Dice-Roller/app/src/main/res/drawable/dice_6.xml" value="0.3195" />
+        <entry key="..\:/Users/AC/KotlinProjectRepos/Dice-Roller/app/src/main/res/drawable/empty_dice.xml" value="0.3195" />
         <entry key="..\:/Users/AC/KotlinProjectRepos/Dice-Roller/app/src/main/res/layout/activity_main.xml" value="0.32653985507246375" />
       </map>
     </option>
